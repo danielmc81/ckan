@@ -1,0 +1,2 @@
+# ckan
+Instalación de CKAN
